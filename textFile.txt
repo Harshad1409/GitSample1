@@ -1,1 +1,2 @@
 Editing file on remote server
+This file is edited locally
